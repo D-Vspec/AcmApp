@@ -85,10 +85,6 @@ const styles = StyleSheet.create({
   rememberText : {
     fontSize: 13
   },
-  forgetText : {
-    fontSize : 11,
-    color : "red"
-  },
   button : {
     backgroundColor : "#1434A4",
     height : 45,
@@ -115,21 +111,6 @@ const styles = StyleSheet.create({
     color : "gray",
     fontSize : 13,
     marginBottom : 6
-  },
-  mediaIcons : {
-    flexDirection : "row",
-    gap : 15,
-    alignItems: "center",
-    justifyContent : "center",
-    marginBottom : 23
-  },
-  icons : {
-    width : 40,
-    height: 40,
-  },
-  footerText : {
-    textAlign: "center",
-    color : "gray",
   },
   signup : {
     color : "red",
