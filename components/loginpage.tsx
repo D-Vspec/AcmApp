@@ -74,17 +74,6 @@ const styles = StyleSheet.create({
     borderWidth : 1,
     borderRadius: 7
   },
-  rememberView : {
-    width : "100%",
-    paddingHorizontal : 50,
-    justifyContent: "space-between",
-    alignItems : "center",
-    flexDirection : "row",
-    marginBottom : 8
-  },
-  rememberText : {
-    fontSize: 13
-  },
   button : {
     backgroundColor : "#1434A4",
     height : 45,
@@ -112,8 +101,4 @@ const styles = StyleSheet.create({
     fontSize : 13,
     marginBottom : 6
   },
-  signup : {
-    color : "red",
-    fontSize : 13
-  }
 })
